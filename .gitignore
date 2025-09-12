@@ -1,0 +1,11 @@
+# 忽略大文件
+*.csv
+*.tsv
+*.parquet
+
+# 但保留小样本
+!user-segmentation/data/sample_*.csv
+
+# 忽略 notebook 的临时缓存
+*.ipynb_checkpoints/
+
