@@ -47,3 +47,13 @@ guide marketing and product strategies.
 - Compare clustering algorithms (DBSCAN, GMM).  
 - Integrate into a marketing dashboard (Streamlit/Power BI).
 
+## Data Source
+
+This project uses the Taobao ad display / click dataset provided by Kaggle:
+
+- **Dataset Name**: Ad Display/Click Data on Taobao.com  
+- **Uploader**: pavansanagapati on Kaggle  
+- **Relevant Files**: `raw_sample.csv`, `user_profile.csv`, etc.  
+- **Link**: https://www.kaggle.com/datasets/pavansanagapati/ad-displayclick-data-on-taobaocom?select=user_profile.csv  
+- **Usage Note**: Since the full dataset is large, this repo contains only sample subsets to enable fast reproducibility. To access the full dataset, please visit the Kaggle link.
+

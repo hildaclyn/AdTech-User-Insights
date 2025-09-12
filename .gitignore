@@ -8,4 +8,7 @@
 
 # 忽略 notebook 的临时缓存
 *.ipynb_checkpoints/
+# MacOS system files
+.DS_Store
+*/.DS_Store
 
